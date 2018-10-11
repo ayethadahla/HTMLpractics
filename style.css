@@ -1,0 +1,29 @@
+body {
+        height: 800px;
+        margin: 25px 25px 25px 25px;
+        padding-top: 30px;
+        padding-right: 30px;
+        padding-bottom: 30px;
+        padding-left: 30px;
+}
+
+h1 {
+    color: black;
+    text-align: left;
+}
+
+p {
+    font-size: 20px;
+    text-align: justify;
+    position: relative;
+    left: 30px;
+
+img{
+      float: left;
+    }
+
+footer {
+  font-size: 12px;
+  text-align: left;
+  overflow: visible;
+}
